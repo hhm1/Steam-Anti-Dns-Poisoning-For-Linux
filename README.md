@@ -3,6 +3,7 @@
 <h2>介绍：</h2>
 </li>
  	<li>这是基于NGINX的加速器（注：不是翻墙工具！不是翻墙工具！不是翻墙工具！），里面会加速包括Steam，GitHub等被DNS污染的网站</li>
+  <li>This is an NGINX-based accelerator (note: not a circumvention tool!. Not a circumvention tool! Not a circumvention tool! ), which will speed up websites contaminated with DNS, including Steam, GitHub, etc<li>
 </ul>
 &nbsp;
 <ul>
@@ -25,13 +26,15 @@
 &nbsp;
 <ul>
  	<li>安装完证书之后打开可视化工具，找到nginx，然后点start，看到勾就证明打开了，如果不想用了就点stop关闭</li>
+ 	<li><img class="alignnone size-full wp-image-415" src="https://haoming.gq/wp-content/uploads/2023/02/屏幕截图-2023-01-21-152344.png" alt="" width="659" height="370" /></li>
 </ul>
-<img class="alignnone size-medium wp-image-103" src="https://haoming.gq/wp-content/uploads/2023/01/屏幕截图-2023-01-21-152344-300x168.png" alt="" width="300" height="168" />
+&nbsp;
 <ul>
  	<li><a href="http://download.haoming.gq/steam-anti-dns-poisoning.7z">下载链接</a></li>
  	<li><a href="https://github.com/hhm1/steam-anti-dns-poisoning">GitHub源码</a></li>
- 	<li><a href="https://haoming.gq/2023/01/22/steam-anti-dns-poisoning-for-linux-ubuntu-document" target="_blank" rel="noopener">Linux-Ubuntu使用文档</a></li>
+ 	<li><a href="https://haoming.gq/2023/01/22/steam-anti-dns-poisoning-for-linux-ubuntu-document" target="_blank" rel="noopener">Linux使用文档</a></li>
  	<li><a href="https://github.com/hhm1/Steam-Anti-Dns-Poisoning-For-Linux" target="_blank" rel="noopener">GitHub源码-Linux</a></li>
+ 	<li><a href="https://haoming.gq/?p=141">Mac使用文档</a></li>
 </ul>
 &nbsp;
 <ul>
@@ -43,9 +46,9 @@
 &nbsp;
 <ul>
  	<li>
-<h2>等等o_o ....，你还想在<del>Linux，（教程已出）</del>Mac，安卓，IOS上用？</h2>
+<h2>等等o_o ....，你还想在<del>Linux，</del>（教程已出）Mac，<del>安卓，</del>IOS上用？</h2>
 </li>
- 	<li><del>Linux，</del>安卓：这<del>两</del>个平台还在研究中。之后会单独出文章</li>
+ 	<li><del>Linux（教程已出），安卓</del>（搞了大半天才想起安卓7.0以上不信任用户证书，这个放弃开发。谷歌，我劝你善良！）：这<del>两</del>个平台还在研究中。之后会单独出文章</li>
  	<li>Mac：等我搞到黑苹果系统可以测试之后再说吧</li>
  	<li>IOS：想都不用想，苹果商店你懂的</li>
 </ul>
@@ -85,6 +88,4 @@
 <p dir="auto">This project is a modified version of <a href="https://github.com/mashirozx/Pixiv-Nginx" target="_blank" rel="noopener">Pixiv-Nginx</a>, and you also need to follow the <a href="https://github.com/mashirozx/Pixiv-Nginx/blob/main/LICENSE" target="_blank" rel="noopener">MIT LICENSE</a></p>
 </li>
 </ul>
-&nbsp;
-
-&nbsp;
+<ul>
