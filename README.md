@@ -19,16 +19,6 @@
 &nbsp;
 <ul>
  	<li>
-<h2>如何使用？</h2>
-</li>
- 	<li>本软件只需要几步即可使用（不要放在中文目录下），首先，你要先安装证书，点击rootCA，之后点击安装证书，下一页，将证书存储到“<span style="color: #ff6600;">受信任的根证书颁发机构</span>”</li>
-</ul>
-&nbsp;
-<ul>
- 	<li>安装完证书之后打开可视化工具，找到nginx，然后点start，看到勾就证明打开了，如果不想用了就点stop关闭</li>
- 	<li><img class="alignnone size-full wp-image-415" src="https://haoming.gq/wp-content/uploads/2023/02/屏幕截图-2023-01-21-152344.png" alt="" width="659" height="370" /></li>
-</ul>
-&nbsp;
 <ul>
  	<li><a href="http://download.haoming.gq/steam-anti-dns-poisoning.7z">下载链接</a></li>
  	<li><a href="https://github.com/hhm1/steam-anti-dns-poisoning">GitHub源码</a></li>
