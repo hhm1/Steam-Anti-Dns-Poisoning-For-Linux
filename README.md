@@ -17,9 +17,6 @@
  	<li>再拿同类型的软件<a href="http://steampp.net">Watt Tokkit</a>来举栗，可以看到他们官网是<span style="color: #ff0000;">经过备案的</span>，如果这是翻墙软件的话是无法通过备案的</li>
 </ul>
 &nbsp;
-<ul>
- 	<li>
-<ul>
  	<li><a href="http://download.haoming.gq/steam-anti-dns-poisoning.7z">下载链接</a></li>
  	<li><a href="https://github.com/hhm1/steam-anti-dns-poisoning">GitHub源码</a></li>
  	<li><a href="https://haoming.gq/2023/01/22/steam-anti-dns-poisoning-for-linux-ubuntu-document" target="_blank" rel="noopener">Linux使用文档</a></li>
