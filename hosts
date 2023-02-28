@@ -1,104 +1,93 @@
 ﻿#UTF-8 encoded 
-#Pixiv Start
-127.0.0.1       pixiv.net 
-127.0.0.1       www.pixiv.net 
-127.0.0.1       ssl.pixiv.net
-127.0.0.1       accounts.pixiv.net 
-127.0.0.1       touch.pixiv.net
-127.0.0.1       oauth.secure.pixiv.net
-127.0.0.1       dic.pixiv.net
-127.0.0.1       en-dic.pixiv.net 
-127.0.0.1       sketch.pixiv.net
-127.0.0.1       payment.pixiv.net
-127.0.0.1       factory.pixiv.net 
-127.0.0.1       comic.pixiv.net  
-127.0.0.1       novel.pixiv.net 
-127.0.0.1       imgaz.pixiv.net 
-127.0.0.1       sensei.pixiv.net
-127.0.0.1       fanbox.pixiv.net
-127.0.0.1       source.pixiv.net
-127.0.0.1       i1.pixiv.net 
-127.0.0.1       i2.pixiv.net 
-127.0.0.1       i3.pixiv.net 
-127.0.0.1       i4.pixiv.net
-127.0.0.1       i.pximg.net
-127.0.0.1       app-api.pixiv.net  
-13.226.113.16    g-client-proxy.pixiv.net 
-210.140.131.159 d.pixiv.org 
-210.140.92.140  pixiv.pximg.net  
-210.140.92.139  s.pximg.net
-210.140.131.246  api.booth.pm
-210.140.131.220  myaccount.pixiv.net
-#Pixiv End
-
-# 顺手修一下Steam
-# Steam Start
-127.0.0.1 store.steampowered.com
-127.0.0.1 steamcommunity.com
-127.0.0.1 img.youtube.com
-# Steam end
-
-# AO3 Start
-127.0.0.1 archiveofourown.org
-# AO3 end
-
-# Exhentai Start
-127.0.0.1 exhentai.org
-127.0.0.1 e-hentai.org
-127.0.0.1 forums.e-hentai.org
-# Exhentai end
-
-# Nyaa Start
-127.0.0.1	nyaa.si
-127.0.0.1	www.nyaa.si
-127.0.0.1	sukebei.nyaa.si
-# Nyaae End
-
-#Discord Start
-127.0.0.1 pax.discordapp.com
-127.0.0.1 apps.discordapp.com
-127.0.0.1 canary.discordapp.com
-127.0.0.1 printer.discordapp.com
-127.0.0.1 merch.discordapp.com
-127.0.0.1 url7195.discordapp.com
-127.0.0.1 url9624.discordapp.com
-127.0.0.1 i18n.discordapp.com
-127.0.0.1 streamkit.discordapp.com
-127.0.0.1 cdn-canary.discordapp.com
-127.0.0.1 ptb.discordapp.com
-127.0.0.1 cdn-ptb.discordapp.com
-127.0.0.1 canary-api.discordapp.com
-127.0.0.1 url9177.discordapp.com
-127.0.0.1 support.discordapp.com
-127.0.0.1 canary.discord.com
+ 127.0.0.1 discordapp.com
 127.0.0.1 discord.com
 127.0.0.1 updates.discord.com
-127.0.0.1 feedback.discord.com
-127.0.0.1 pax.discord.com
-127.0.0.1 printer.discord.com
-127.0.0.1 discord.gg
-127.0.0.1 gateway.discord.gg
-127.0.0.1 click.discord.com
-127.0.0.1 status.discord.com
-127.0.0.1 streamkit.discord.com
-127.0.0.1 ptb.discord.com
-127.0.0.1 i18n.discord.com
 127.0.0.1 dl.discordapp.net
+127.0.0.1 blog.discord.com
+127.0.0.1 medium.com
+127.0.0.1 gateway.discord.gg
+127.0.0.1 media.discordapp.net
 127.0.0.1 images-ext-2.discordapp.net
 127.0.0.1 images-ext-1.discordapp.net
+127.0.0.1 url9177.discordapp.com
+127.0.0.1 canary-api.discordapp.com
+127.0.0.1 cdn-ptb.discordapp.com
+127.0.0.1 ptb.discordapp.com
 127.0.0.1 status.discordapp.com
-127.0.0.1 media.discordapp.net
+127.0.0.1 cdn-canary.discordapp.com
 127.0.0.1 cdn.discordapp.com
-127.0.0.1 discordapp.com
+127.0.0.1 streamkit.discordapp.com
+127.0.0.1 i18n.discordapp.com
+127.0.0.1 url9624.discordapp.com
+127.0.0.1 url7195.discordapp.com
+127.0.0.1 merch.discordapp.com
+127.0.0.1 printer.discordapp.com
+127.0.0.1 canary.discordapp.com
+127.0.0.1 apps.discordapp.com
+127.0.0.1 pax.discordapp.com
+127.0.0.1 status.discord.com
+127.0.0.1 streamkit.discord.com
+127.0.0.1 feedback.discord.com
+127.0.0.1 click.discord.com
+127.0.0.1 pax.discord.com
+127.0.0.1 printer.discord.com
+127.0.0.1 ptb.discord.com
+127.0.0.1 canary.discord.com
+127.0.0.1 bugs.discord.com
+127.0.0.1 i18n.discord.com
 127.0.0.1 support.discord.com
+127.0.0.1 safety.discord.com
 127.0.0.1 support-dev.discord.com
-127.0.0.1 images-2.discordapp.net
-127.0.0.1 images-1.discordapp.net
-#Discord End
-#DuckDuckGo Start
-127.0.0.1 duckduckgo.com
-127.0.0.1 external-content.duckduckgo.com
-#DuckDuckGo End
-#GitHub Start
-127.0.0.1 github.com
-#GitHub End
+127.0.0.1 duckduckgo.com #duckduckgo
+127.0.0.1 external-content.duckduckgo.com #duckduckgo
+127.0.0.1 improving.duckduckgo.com #duckduckgo
+127.0.0.1 exhentai.org #exhentai
+127.0.0.1 e-hentai.org #exhentai
+127.0.0.1 forums.e-hentai.org #exhentai
+185.199.108.154 github.githubassets.com #github
+127.0.0.1 github.com #github
+127.0.0.1 nodeload.github.com #github
+127.0.0.1 api.github.com #github
+127.0.0.1 codeload.github.com #github
+127.0.0.1 raw.github.com #github
+127.0.0.1 training.github.com #github
+127.0.0.1 assets-cdn.github.com #github
+127.0.0.1 documentcloud.github.com #github
+127.0.0.1 help.github.com #github
+127.0.0.1 githubstatus.com #github
+127.0.0.1 github.global.ssl.fastly.net #github
+127.0.0.1 raw.githubusercontent.com #github
+127.0.0.1 pkg-containers.githubusercontent.com #github
+127.0.0.1 cloud.githubusercontent.com #github
+127.0.0.1 gist.githubusercontent.com #github
+127.0.0.1 marketplace-screenshots.githubusercontent.com #github
+127.0.0.1 repository-images.githubusercontent.com #github
+127.0.0.1 user-images.githubusercontent.com #github
+127.0.0.1 desktop.githubusercontent.com #github
+127.0.0.1 avatars.githubusercontent.com #github
+127.0.0.1 avatars0.githubusercontent.com #github
+127.0.0.1 avatars1.githubusercontent.com #github
+127.0.0.1 avatars2.githubusercontent.com #github
+127.0.0.1 avatars3.githubusercontent.com #github
+127.0.0.1 avatars4.githubusercontent.com #github
+127.0.0.1 avatars5.githubusercontent.com #github
+127.0.0.1 avatars6.githubusercontent.com #github
+127.0.0.1 avatars7.githubusercontent.com #github
+127.0.0.1 avatars8.githubusercontent.com #github
+127.0.0.1 gravatar.com #gravatar
+127.0.0.1 www.gravatar.com #gravatar
+127.0.0.1 cn.gravatar.com #gravatar
+127.0.0.1 en.gravatar.com #gravatar
+127.0.0.1 s.gravatar.com #gravatar
+127.0.0.1 2.gravatar.com #gravatar
+127.0.0.1 onedrive.live.com #ms
+127.0.0.1 skyapi.onedrive.live.com #ms
+127.0.0.1 1drv.ms #ms
+127.0.0.1	nyaa.si #nyaa
+127.0.0.1	www.nyaa.si #nyaa
+127.0.0.1	sukebei.nyaa.si #nyaa
+127.0.0.1 store.steampowered.com #steam
+127.0.0.1 steampowered.com #steam
+127.0.0.1 steamcommunity.com #steam
+127.0.0.1 v2ex.com #v2ex
+127.0.0.1 cdn.v2ex.com #v2ex
